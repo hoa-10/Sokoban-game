@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pygame
+gym
+setuptools
+imageio
